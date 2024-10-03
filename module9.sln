@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "Task2\task2.csproj", "{38F20128-1C30-46CD-B4BD-442FA0959167}"
 EndProject
 Global
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -44,5 +41,8 @@ Global
 		{38F20128-1C30-46CD-B4BD-442FA0959167}.Release|x64.Build.0 = Release|Any CPU
 		{38F20128-1C30-46CD-B4BD-442FA0959167}.Release|x86.ActiveCfg = Release|Any CPU
 		{38F20128-1C30-46CD-B4BD-442FA0959167}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
